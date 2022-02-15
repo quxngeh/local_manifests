@@ -17,6 +17,6 @@
 	<project path="kernel/xiaomi/sm6250" name="android_kernel_xiaomi_sm6250" remote="los" revision="lineage-18.1" clone-depth="1" />
 	<project path="vendor/xiaomi/sm6250-common" name="vendor_xiaomi_sm6250-common" remote="pe-bl" revision="twelve" clone-depth="1" />
 	<project path="vendor/xiaomi/miatoll" name="vendor_xiaomi_miatoll" remote="pe-bl" revision="twelve" clone-depth="1" />
-	<project path="device/qcom-LA.UM.10.3.r1-xxxxx-sdm845.0/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="pe-bl" revision="twelve-LA.UM.10.3.r1-xxxxx-sdm845.0" clone-depth="1" />
+	<project path="device/qcom-LA.UM.10.3.r1-xxxxx-sdm845.0/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="pe" revision="twelve-LA.UM.10.3.r1-xxxxx-sdm845.0" clone-depth="1" />
 	
 </manifest>
