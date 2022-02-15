@@ -13,6 +13,6 @@
  	<project path="device/xiaomi/sm6250-common" name="device_xiaomi_sm6250-common" remote="pe-dev" revision="twelve" clone-depth="1" />
 	<project path="device/xiaomi/miatoll" name="device_xiaomi_miatoll" remote="qxg" revision="twelve" clone-depth="1" />
 	<project path="kernel/xiaomi/sm6250" name="android_kernel_xiaomi_sm6250" remote="los" revision="lineage-18.1" clone-depth="1" />
-	<project path="vendor/xiaomi/sm6250-common" name="vendor_miatoll_sm6250-common" remote="pe-bl" revision="twelve" clone-depth="1" />
+	<project path="vendor/xiaomi/sm6250-common" name="vendor_xiaomi_sm6250-common" remote="pe-bl" revision="twelve" clone-depth="1" />
 	<project path="vendor/xiaomi/miatoll" name="vendor_xiaomi_miatoll" remote="pe-bl" revision="twelve" clone-depth="1" />
 </manifest>
